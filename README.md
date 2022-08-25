@@ -4,8 +4,8 @@ Driver board for Luminator MAX3000 Flip Dot Panels, allowing for chaining multip
 
 ![top](static/images/FlippyDriver-Top.png)
 ![bottom](static/images/FlippyDriver-Bottom.png)
-![driver board](static/images/FlippyDriver-Driver.png)
-![full panel](static/images/FlippyDriver-FullPanel.png)
+![driver board](static/images/FlippyDriver-Driver.jpeg)
+![full panel](static/images/FlippyDriver-FullPanel.jpeg)
 
 ## Cloning repository (with Submodules)
 
