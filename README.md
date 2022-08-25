@@ -18,6 +18,12 @@ $ git clone --recurse-submodules git@github.com:NietoSkunk/FlippyDriver.git
 * 4 Layer board, preferably at least TG155. The display traces get warm when running at full tilt, and proper ventilation and thermal management is recommended.
 * Several components are marked as DNI and are not necessary to populate. 
 * F1 and U30 both have solder jumpers to bypass if they are not populated.
+* Two mounting holes are in line with the holes on the panel, and support a 10mm M3 standoff. The larger mounting hole in the middle of the mouard matches with the hole on the panel, and supports a 10mm M4 standoff.
+
+## Associated projects
+
+* [FlippyAdapter - Panel Header to IDE Ribbon Cables](https://github.com/NietoSkunk/FlippyAdapter)
+* [FlippyControl - Arduino / ESP32 Shield](https://github.com/NietoSkunk/FlippyControl)
 
 ## Data Harness
 
