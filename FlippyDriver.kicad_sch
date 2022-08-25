@@ -10038,268 +10038,268 @@
       (reference "Q2") (unit 1) (value "AO3400A") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/fc9667d1-d03a-4d32-a6d7-bacd0ead3170"
-      (reference "Q3") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q3") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/70830663-df88-4429-89b2-dcd48bf8ddc4"
-      (reference "Q3") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q3") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/7fb8acc4-cc78-41a0-af2d-c31803259cf3"
-      (reference "Q4") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q4") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/cc8065a2-6f18-4933-ac1b-69d166dc3a05"
-      (reference "Q4") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q4") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/b0c5c3b6-93f0-41cd-931c-7c4d77109288"
-      (reference "Q5") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q5") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/060a25ab-2cf1-4d84-ad4d-cc3a0989fac7"
-      (reference "Q5") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q5") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/5dd17c2a-4c35-4340-8951-1deca474a623"
-      (reference "Q6") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q6") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/1be7a6c6-417f-41c4-a8d5-5ffe9d78eda1"
-      (reference "Q6") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q6") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/e2b48028-5c87-4fda-b133-7bffb82dbbc6"
-      (reference "Q7") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q7") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/08c826e1-5a75-43f8-ab33-4bdbce46e13d"
-      (reference "Q7") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q7") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/0fcef7ab-30b0-4691-838f-9f1f28358ffe"
-      (reference "Q8") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q8") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/ddc56f96-9b58-4d33-9190-d18ea036220a"
-      (reference "Q8") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q8") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/224a9751-6c2a-4583-bce3-47bd54dc361b"
-      (reference "Q9") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q9") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/c99b1e62-3312-40ed-83be-30f48125e5d7"
-      (reference "Q9") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q9") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/29273b4f-1e76-417e-98ee-a64698f12eb7"
-      (reference "Q10") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q10") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/494849a3-eea0-46ff-afe9-2412e849cff1"
-      (reference "Q10") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q10") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/fbebf54c-7a0e-4e93-a084-996fe61f1241"
-      (reference "Q11") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q11") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/04c39f7a-a2b6-42d1-865c-fd21b26ae854"
-      (reference "Q11") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q11") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/e9fad542-fa76-4efd-bcd7-e8b18615e5fd"
-      (reference "Q12") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q12") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/25886880-68dc-4dbb-a8b0-655445ae1d5b"
-      (reference "Q12") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q12") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/c2fa995e-4df5-41a5-9f66-11aa35832610"
-      (reference "Q13") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q13") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/177b13d8-321a-4424-9674-5ddb5063b2dd"
-      (reference "Q13") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q13") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/762a9a02-aacb-47e9-88f7-39788a4d6739"
-      (reference "Q14") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q14") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/174bd641-7a48-47a9-b0a4-ec2e049f70b3"
-      (reference "Q14") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q14") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/5821645d-b822-46f0-b20e-83750075cc8e"
-      (reference "Q15") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q15") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/6a21f5e7-5766-4ccf-a94e-45658b558203"
-      (reference "Q15") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q15") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/a3bda3bf-1a44-4698-bb7f-9e55ca267c99"
-      (reference "Q16") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q16") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/d4b8d2d8-e060-4090-8389-a1af252cea13"
-      (reference "Q16") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q16") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/ab0b0d01-0896-41a1-b76d-5022b2f42d2e"
-      (reference "Q17") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q17") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/404c4a0c-1cbd-443b-b7f9-cb9e84057f0e"
-      (reference "Q17") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q17") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/fab81a8d-9daa-44af-b758-70c452a1f067"
-      (reference "Q18") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q18") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/651ef729-8e2e-4c0d-a51c-5a814401a9d5"
-      (reference "Q18") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q18") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/c1e2e2a2-9457-4682-9097-deeecfafc376"
-      (reference "Q19") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q19") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/3d638389-f8d6-48e4-a0e6-a02efda4ef42"
-      (reference "Q19") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q19") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/27334df1-b4f8-4380-9243-26774aa6e485"
-      (reference "Q20") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q20") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/8f994613-8c95-4cb0-a4e4-1fd631266c17"
-      (reference "Q20") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q20") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/48ad2f19-aeab-42be-8919-99f860565f0c"
-      (reference "Q21") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q21") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/0805cad5-db4a-44d6-ada5-375966e99fdd"
-      (reference "Q21") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q21") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/48b5192a-eddb-40bd-812f-c2089ff5db3a"
-      (reference "Q22") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q22") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/d30096ac-317b-4cef-9416-4a56368aee40"
-      (reference "Q22") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q22") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/347e4aee-6d16-4234-94a2-d5533338e162"
-      (reference "Q23") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q23") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/203dad2d-2a25-44de-a3bd-f7403d497e3a"
-      (reference "Q23") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q23") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/d4b20f65-c2b5-4d19-9bb9-bbc127c4464c"
-      (reference "Q24") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q24") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/85a61516-6b8e-484b-b5a7-fb3cd47c9455"
-      (reference "Q24") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q24") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/7639eb54-0c71-414c-bf01-9fda183d5de1"
-      (reference "Q25") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q25") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/6258d194-f1a6-4ddb-a7b2-d04c7cd56999"
-      (reference "Q25") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q25") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/b9526875-e597-4aa6-959d-5113d127165c"
-      (reference "Q26") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q26") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/1f4b4428-b327-4f05-b46a-1ee96c553aee"
-      (reference "Q26") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q26") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/15a7bd44-11b1-401a-9106-cf4ba1481be1"
-      (reference "Q27") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q27") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/355a14e8-b636-444f-ad7d-8697ae9a9065"
-      (reference "Q27") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q27") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/c03ab1b6-184b-473f-b69c-50ed4b550af8"
-      (reference "Q28") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q28") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/406221e3-9a6f-4a9e-ad9e-069c9fa8aade"
-      (reference "Q28") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q28") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/cb601ca7-1cec-4eaf-8d83-e03f7985e587"
-      (reference "Q29") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q29") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/53f937d8-1207-43b1-8302-9255d3202540"
-      (reference "Q29") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q29") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/5506caf6-b2b1-4109-9b40-9ef1bfe25363"
-      (reference "Q30") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q30") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/5809ffcd-a550-4639-9728-9d7b1d882740"
-      (reference "Q30") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q30") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/53427989-af37-4237-8483-d096952529a7"
-      (reference "Q31") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q31") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/66abec82-3ffd-4907-839c-a12be73387d9"
-      (reference "Q31") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q31") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/9c490700-52d1-4487-b277-0fd5804eedd9"
-      (reference "Q32") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q32") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/b89634bf-6287-46ab-99c3-da6b89ccd093"
-      (reference "Q32") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q32") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/7f1490c0-743a-4489-9007-bcf0974cbdcc"
-      (reference "Q33") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q33") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/97c30044-3471-4ba8-b0f6-52c032d94731"
-      (reference "Q33") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q33") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/c216c88c-b490-46b8-ba62-dec7c2cff807"
-      (reference "Q34") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q34") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/dd31b3c7-265c-448f-b0c7-68f6f3ad5ecb"
-      (reference "Q34") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q34") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/29530b75-9558-4f7c-98c8-35539d04e329"
-      (reference "Q35") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q35") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/fb22781c-de33-4058-bb4d-45892aba9420"
-      (reference "Q35") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q35") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/2b626b0d-bd99-47a7-822d-61238e4ba1ff"
-      (reference "Q36") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q36") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/26729594-813f-40f2-8170-ec2164b18427"
-      (reference "Q36") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q36") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/760306bc-24ca-42ed-8567-608e2a1b7ccd"
-      (reference "Q37") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q37") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/c138d661-32ec-4001-9122-6ec0e0b1a6ea"
-      (reference "Q37") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q37") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/4d929145-dbf8-4776-82c2-98593baae851"
-      (reference "Q38") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q38") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/165e9e79-aaa7-49b6-9aeb-3eb04b14e2ef"
-      (reference "Q38") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q38") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/84670ac7-bfdf-42c7-ba83-366a1cbf63ff"
-      (reference "Q39") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q39") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/0d4534c9-a9cc-41ca-8b56-b03d97fb5874"
-      (reference "Q39") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q39") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/810f28b8-ec6c-4a60-97ae-002357a8e039"
-      (reference "Q40") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q40") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/eec7aa60-dc55-4bb4-a626-cabb97ec9cb9"
-      (reference "Q40") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q40") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/9b16a1d8-b673-4258-a8aa-a1b35e31a5f0"
-      (reference "Q41") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q41") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/13432c38-5e11-4b13-b5a2-c172ea7dc98a"
-      (reference "Q41") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q41") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/326c0aa7-b4c8-440c-b66f-e1d4db1c9c62"
-      (reference "Q42") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q42") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/3bdf9798-31a0-49f3-b094-4cbe449cdd74"
-      (reference "Q42") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q42") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/0be09e2a-8a8b-48df-b67e-0bbd217e6e00"
-      (reference "Q43") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q43") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/cb339333-6239-43ce-a64d-070eaf1a4fdc"
-      (reference "Q43") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q43") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/43335aed-e1ca-4838-9ff0-e2195afec38e"
-      (reference "Q44") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q44") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/02a07b00-66a8-4e67-92be-e302bfa7e319"
-      (reference "Q44") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q44") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/da4289e2-2703-41aa-b019-fe75d5545d1b"
-      (reference "Q45") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q45") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/28b2c24c-79e3-49fa-80a8-366e52087ec1"
-      (reference "Q45") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q45") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/59d91f41-db59-46a4-904b-3ba49f7a1369"
-      (reference "Q46") (unit 1) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q46") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000060d6f281/ec4527b1-4103-474a-880c-dc239549f71f"
-      (reference "Q46") (unit 2) (value "AP4606") (footprint "Package_SO:SOP-8_3.9x4.9mm_P1.27mm")
+      (reference "Q46") (unit 2) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/40fb15ed-451d-4beb-8307-0580c402f6e8"
       (reference "Q47") (unit 1) (value "DNI") (footprint "Package_TO_SOT_SMD:SOT-23")
