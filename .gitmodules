@@ -1,0 +1,3 @@
+[submodule "nieto-kicad-libs"]
+	path = nieto-kicad-libs
+	url = git@github.com:NietoSkunk/Nieto-KiCAD-Libs.git
