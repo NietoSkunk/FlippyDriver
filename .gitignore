@@ -33,3 +33,4 @@ gerber/*.zip
 jlcpcb/*.db
 
 .DS_Store
+\#auto_saved_files#
