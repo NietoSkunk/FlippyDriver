@@ -2,6 +2,8 @@
 
 Driver board for Luminator MAX3000 Flip Dot Panels, allowing for chaining multiple panels, 3.3V and 5V tolerant inputs, and LED illumination with PWM dimming.
 
+[Get it on PCBWay!](https://www.pcbway.com/project/shareproject/Luminator_MAX3000_Driver_Board_04b50fe9.html)
+
 ![top](static/images/FlippyDriver-Top.png)
 ![bottom](static/images/FlippyDriver-Bottom.png)
 ![driver board](static/images/FlippyDriver-Driver.jpeg)
