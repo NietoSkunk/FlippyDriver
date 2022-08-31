@@ -1,6 +1,6 @@
 # FlippyDriver
 
-Driver board for Luminator MAX3000 Flip Dot Panels, allowing for chaining multiple panels, 3.3V and 5V tolerant inputs, and PWM LED dimming and temperature sensing.
+Driver board for Luminator MAX3000 Flip Dot Panels, allowing for chaining multiple panels, 3.3V and 5V tolerant inputs, and LED illumination with PWM dimming.
 
 ![top](static/images/FlippyDriver-Top.png)
 ![bottom](static/images/FlippyDriver-Bottom.png)
@@ -17,8 +17,9 @@ $ git clone --recurse-submodules git@github.com:NietoSkunk/FlippyDriver.git
 
 * 4 Layer board, preferably at least TG155. The display traces get warm when running at full tilt, and proper ventilation and thermal management is recommended.
 * Several components are marked as DNI and are not necessary to populate. 
-* F1 and U30 both have solder jumpers to bypass if they are not populated.
+* F1, F2, and U30 have solder jumpers to bypass if they are not populated.
 * Two mounting holes are in line with the holes on the panel, and support a 10mm M3 standoff. The larger mounting hole in the middle of the mouard matches with the hole on the panel, and supports a 10mm M4 standoff.
+* The 7805 5V Aux Output is compatible with both a VX7805-500 switching regulator module and a L7805 linear regulator (heatsink recommended).
 
 ## Associated projects
 
@@ -33,12 +34,14 @@ $ git clone --recurse-submodules git@github.com:NietoSkunk/FlippyDriver.git
 | MOSI | 3 | 4 | PULSE_ENABLE |
 | LATCH | 5 | 6 | COL_PULSE_N |
 | CLK | 7 | 8 | ROW_PULSE_N |
-| RESET | 9 | 10 | I2C SCL |
-| N/C | 11 | 12 | I2C SDA |
+| RESET | 9 | 10 | LED PWM |
+| 5V Return | 11 | 12 | GND |
 
 All logic circuitry is both 3.3V and 5V tolerant, as long as the VCC power rail is at least as high as the logic voltage. The RESET line has a pull-down resistor and is Active-Low. The PULSE_ENABLE pin is active high (i.e. pulse on high level), and the COL and ROW PULSE pins are active low (i.e. pulse on low level). 
 
 WARNING: The low side sink drivers must be turned on after the high side, and turned off before the high side. For example, a pulse sequence of ROW Low, COL Low, COL High, ROW High would be used if the row is sourced and the column is grounded in order to set a bit. Damage may occur to the circuit if this order is not maintained!
+
+The 5V Return pin is connected to the output of the 7805 regulator, which allows a board to receive 5V power from the 24V drive power.  It is not passed through to other modules, and thus only the first board in the chain has an accessible 5V output. All other boards in the chain do not have the aux output routed anywhere, and they can optionally be depopulated.
 
 ## Board Harness
 
@@ -111,9 +114,6 @@ The output of the shift register is sent out to the OUT header, and comes in to 
 |  11 | Row Bank |
 |  12 | N/C |
 |  13 | User LED |
-|  14 | I2C Pullup |
-|  15 | I2C Enable (unused) |
+|  14 | N/C |
+|  15 | N/C |
 
-## I2C Control
-
-TODO
