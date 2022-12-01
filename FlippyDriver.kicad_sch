@@ -6,8 +6,8 @@
 
   (title_block
     (title "Luminator MAX3000 Custom Driver Board")
-    (date "2022-08-30")
-    (rev "D")
+    (date "2022-12-01")
+    (rev "D.1")
   )
 
   (lib_symbols
@@ -6997,7 +6997,7 @@
     (property "Reference" "Q2" (id 0) (at 377.19 182.6065 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "BSP110" (id 1) (at 377.19 185.3816 0)
+    (property "Value" "STN4NF03L" (id 1) (at 377.19 185.3816 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2" (id 2) (at 376.555 180.975 0)
@@ -7006,10 +7006,10 @@
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2008191940_VBsemi-Elec-STN3PF06_C725212.pdf" (id 3) (at 371.475 183.515 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C724993" (id 4) (at 371.475 183.515 0)
+    (property "LCSC" "C85568" (id 4) (at 371.475 183.515 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Digikey" " IRFL024ZTRPBFCT-ND" (id 5) (at 371.475 183.515 0)
+    (property "Digikey" "497-4525-1-ND" (id 5) (at 371.475 183.515 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 510df866-48a9-45e6-973a-7041ed56288a))
@@ -8219,7 +8219,7 @@
       (reference "Q1") (unit 1) (value "VBJ2456") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
     )
     (path "/d107bce9-58f1-4bfc-aeb8-38d5741a45b2"
-      (reference "Q2") (unit 1) (value "BSP110") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
+      (reference "Q2") (unit 1) (value "STN4NF03L") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
     )
     (path "/00000000-0000-0000-0000-00005fec42d4/fc9667d1-d03a-4d32-a6d7-bacd0ead3170"
       (reference "Q3") (unit 1) (value "AP4606") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")

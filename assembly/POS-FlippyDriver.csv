@@ -49,7 +49,7 @@ J3,Board Harness,Luminator_MAX3000,149.6,-73.8,90.0,top
 J5,24V Input,BarrelJack_Horizontal,217.3425,-112.0,90.0,top
 J7,24V Input,"TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",204.2,-123.305,0.0,top
 Q1,VBJ2456,SOT-223-3_TabPin2,217.45,-94.15,0.0,top
-Q2,BSP110,SOT-223-3_TabPin2,103.65,-73.3,0.0,top
+Q2,STN4NF03L,SOT-223-3_TabPin2,103.65,-73.3,0.0,top
 Q3,AP4606,SOIC-8_3.9x4.9mm_P1.27mm,121.603335,-85.1,90.0,top
 Q4,AP4606,SOIC-8_3.9x4.9mm_P1.27mm,120.550844,-93.88,90.0,top
 Q5,AP4606,SOIC-8_3.9x4.9mm_P1.27mm,127.682668,-85.1,90.0,top

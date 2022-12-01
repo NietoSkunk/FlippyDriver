@@ -6,8 +6,8 @@
 
   (title_block
     (title "Luminator MAX3000 Custom Driver Board")
-    (date "2022-08-30")
-    (rev "D")
+    (date "2022-12-01")
+    (rev "D.1")
   )
 
   (lib_symbols
