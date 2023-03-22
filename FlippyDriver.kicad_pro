@@ -555,6 +555,22 @@
       ""
     ],
     [
+      "fdd10ff1-87ea-4ae3-93ed-39670ee1e06b",
+      "Power Input and Protection"
+    ],
+    [
+      "3b09f9cc-d6ea-4493-bd9d-47130d087596",
+      "5V Output Regulator"
+    ],
+    [
+      "82fc7148-d334-45c1-b9cc-d772dce80643",
+      "Board Harnesses"
+    ],
+    [
+      "3b7cd5fc-0e38-48e2-9780-c7bc03ba5dca",
+      "Testpoints"
+    ],
+    [
       "00000000-0000-0000-0000-00005f7d9911",
       "Decoders"
     ],
@@ -565,6 +581,18 @@
     [
       "00000000-0000-0000-0000-000060d6f281",
       "Row Drivers"
+    ],
+    [
+      "b9ecc6f8-e198-4e39-bca0-3897aaa8f046",
+      "Pulse Protection"
+    ],
+    [
+      "eef1c5cb-39e9-4045-88db-c82662a0a922",
+      "Shift Registers"
+    ],
+    [
+      "1e7786a2-8ab6-435b-b249-409b2528e4fd",
+      "Indicator LEDs"
     ]
   ],
   "text_variables": {}

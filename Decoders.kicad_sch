@@ -6,8 +6,8 @@
 
   (title_block
     (title "Luminator MAX3000 Custom Driver Board")
-    (date "2022-12-01")
-    (rev "D.1")
+    (date "2023-03-21")
+    (rev "E")
     (comment 2 "To SET, current flows from ROW_SET to COL ")
     (comment 3 "To RESET, current flows from COL to ROW_RESET")
     (comment 4 "WARNING: Sink MUST be turned off before Source!")
